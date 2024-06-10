@@ -1,0 +1,1 @@
+# Tầng xử lý logic dữ liệu, validate những thông tin nào cần lưu vào DB
